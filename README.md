@@ -90,7 +90,7 @@ Publishing libraries to Maven is a chore that takes time and effort. Jitpack.io 
 
   * [Say It! - English Learning](https://play.google.com/store/apps/details?id=com.cesarsk.say_it) : An Android App aimed to improve your English Pronunciation. 
     * [Github Page](https://github.com/cesarsk/say_it)
-    
+     
   * [Queskr](https://play.google.com/store/apps/details?id=com.queskr.www.queskrandroidapp) : Social Q&A at your fingertips
 
 # Learning Resources
